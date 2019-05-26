@@ -9,3 +9,6 @@ The script guessinggame.sh consists of a menu driven code.
 3. If your guess is not so then prompt says too low.
 4. If you manage to hit the bullseye, you are congragulated.
 
+#Please go and check that code right after!
+[This is the link](https://github.com/cyberwolf199807/cyberwolf199807.github.io)
+
