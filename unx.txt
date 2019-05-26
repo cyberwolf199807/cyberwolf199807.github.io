@@ -1,0 +1,1000 @@
+ 1143  26/05/19 03:06:33 12abc=34
+ 1144  26/05/19 03:06:33 echo Demetrius || [[ 6 -eq 7 ]] || echo Helena && echo Hermia || [[ 7 -gt 4 ]]
+ 1145  26/05/19 03:06:33 nano cool.sh
+ 1146  26/05/19 03:06:33 bash cool.sh
+ 1147  26/05/19 03:06:33 nano cool.sh
+ 1148  26/05/19 03:06:33 lab=(jeff roger brian)
+ 1149  26/05/19 03:06:33 lab[3]=sean
+ 1150  26/05/19 03:06:33 echo ${lab[*]}
+ 1151  26/05/19 03:06:33 nano cool.sh
+ 1152  26/05/19 03:06:33 bash repseq.sh 1 6 3
+ 1153  26/05/19 03:06:33 bash cool.sh 1 6 3
+ 1154  26/05/19 03:06:33 bash cool.sh 1 9 3
+ 1155  26/05/19 03:06:33 function termo { echo $1; }
+ 1156  26/05/19 03:06:33 termo 56
+ 1157  26/05/19 03:06:33 termo 56 90
+ 1158  26/05/19 03:06:33 termo
+ 1159  26/05/19 03:06:33 termo 0
+ 1160  26/05/19 03:06:33 termo 90
+ 1161  26/05/19 03:06:33 function demse { echo $2 34 54 $1; }
+ 1162  26/05/19 03:06:33 source demse
+ 1163  26/05/19 03:06:33 demse 34 23
+ 1164  26/05/19 03:06:33 nano funct.sh
+ 1165  26/05/19 03:06:33 bash funct.sh
+ 1166  26/05/19 03:06:33 nano funct.sh
+ 1167  26/05/19 03:06:33 bash funct.sh
+ 1168  26/05/19 03:06:33 source funct.sh
+ 1169  26/05/19 03:06:33 echo $sum
+ 1170  26/05/19 03:06:33 echo $sum && echo "trump"
+ 1171  26/05/19 03:06:33 nano funct2.sh
+ 1172  26/05/19 03:06:33 bash funct2.sh
+ 1173  26/05/19 03:06:33 nano funct2.sh
+ 1174  26/05/19 03:06:33 nano funct1.sh
+ 1175  26/05/19 03:06:33 nano funct.sh
+ 1176  26/05/19 03:06:33 source funct.sh
+ 1177  26/05/19 03:06:33 nano funct.sh
+ 1178  26/05/19 03:06:33 lax
+ 1179  26/05/19 03:06:33 nano funct2.sh
+ 1180  26/05/19 03:06:33 source funct.sh
+ 1181  26/05/19 03:06:33 lax2
+ 1182  26/05/19 03:06:33 source funct2.sh
+ 1183  26/05/19 03:06:33 cat funct2.sh
+ 1184  26/05/19 03:06:33 lax1
+ 1185  26/05/19 03:06:33 nano funct1.sh
+ 1186  26/05/19 03:06:33 history
+ 1187  26/05/19 03:06:33 nano funct.sh
+ 1188  26/05/19 03:06:33 source funt.sh
+ 1189  26/05/19 03:06:33 source funct.sh
+ 1190  26/05/19 03:06:33 lax
+ 1191  26/05/19 03:06:33 source funct2.sh
+ 1192  26/05/19 03:06:33 lax2
+ 1193  26/05/19 03:06:33 cat funct2.sh
+ 1194  26/05/19 03:06:33 lax1
+ 1195  26/05/19 03:06:33 source funct.sh
+ 1196  26/05/19 03:06:33 nano funct.sh
+ 1197  26/05/19 03:06:33 source funct.sh
+ 1198  26/05/19 03:06:33 bash funct.sh
+ 1199  26/05/19 03:06:33 lax
+ 1200  26/05/19 03:06:33 source funct2.sh
+ 1201  26/05/19 03:06:33 lax2
+ 1202  26/05/19 03:06:33 lax1
+ 1203  26/05/19 03:06:33 nano funct.sh
+ 1204  26/05/19 03:06:33 source funct.sh
+ 1205  26/05/19 03:06:33 source funct2.sh
+ 1206  26/05/19 03:06:33 lax
+ 1207  26/05/19 03:06:33 lax1
+ 1208  26/05/19 03:06:33 nano funct.sh
+ 1209  26/05/19 03:06:33 bash funct.sh
+ 1210  26/05/19 03:06:33 nano funct.sh
+ 1211  26/05/19 03:06:33 bash funct.sh
+ 1212  26/05/19 03:06:33 nano funct.sh
+ 1213  26/05/19 03:06:33 bash funct.sh
+ 1214  26/05/19 03:06:33 nano funct.sh
+ 1215  26/05/19 03:06:33 bash funct.sh
+ 1216  26/05/19 03:06:33 isiteven
+ 1217  26/05/19 03:06:33 nano funct.sh
+ 1218  26/05/19 03:06:33 isiteven
+ 1219  26/05/19 03:06:33 nano funct.sh
+ 1220  26/05/19 03:06:33 source funct.sh
+ 1221  26/05/19 03:06:33 isiteven
+ 1222  26/05/19 03:06:33 nano funct.sh
+ 1223  26/05/19 03:06:33 source funct.sh
+ 1224  26/05/19 03:06:33 cat funct.sh
+ 1225  26/05/19 03:06:33 isiteven 23
+ 1226  26/05/19 03:06:33 isiteven 46
+ 1227  26/05/19 03:06:33 function nevens { for i in {1..10}; x=$(isiteven i)
+ 1228  26/05/19 03:06:33 x=$(isiteven 34)
+ 1229  26/05/19 03:06:33 echo $x
+ 1230  26/05/19 03:06:33 nano funct.sh
+ 1231  26/05/19 03:06:33 bash funct.sh
+ 1232  26/05/19 03:06:33 nano funct.sh
+ 1233  26/05/19 03:06:33 source funct.sh
+ 1234  26/05/19 03:06:33 range
+ 1235  26/05/19 03:06:33 nano funct.sh
+ 1236  26/05/19 03:06:33 range
+ 1237  26/05/19 03:06:33 nano funct.sh
+ 1238  26/05/19 03:06:33 source funct.sh
+ 1239  26/05/19 03:06:33 range 
+ 1240  26/05/19 03:06:33 nano funct.sh
+ 1241  26/05/19 03:06:33 source funct.sh
+ 1242  26/05/19 03:06:33 range
+ 1243  26/05/19 03:06:33 nano funct.sh
+ 1244  26/05/19 03:06:33 source funct.sh
+ 1245  26/05/19 03:06:33 cat funct,shg
+ 1246  26/05/19 03:06:33 cat funct.sh
+ 1247  26/05/19 03:06:33 nano funct.sh
+ 1248  26/05/19 03:06:33 source funct.sh
+ 1249  26/05/19 03:06:33 nano funct.sh
+ 1250  26/05/19 03:06:33 source funct.sh
+ 1251  26/05/19 03:06:33 percen
+ 1252  26/05/19 03:06:33 source funct.sh
+ 1253  26/05/19 03:06:33 nano funct.sh
+ 1254  26/05/19 03:06:33 source funct.sh
+ 1255  26/05/19 03:06:33 nano funct.sh
+ 1256  26/05/19 03:06:33 source funct.sh
+ 1257  26/05/19 03:06:33 nano funct.sh
+ 1258  26/05/19 03:06:33 source funct.sh
+ 1259  26/05/19 03:06:33 nano funct.sh
+ 1260  26/05/19 03:06:33 source funct.sh
+ 1261  26/05/19 03:06:33 nano funct.sh
+ 1262  26/05/19 03:06:33 source funct.sh
+ 1263  26/05/19 03:06:33 percen
+ 1264  26/05/19 03:06:33 bash funct.sh
+ 1265  26/05/19 03:06:33 percen
+ 1266  26/05/19 03:06:33 source funct.sh
+ 1267  26/05/19 03:06:33 cat funct.sh
+ 1268  26/05/19 03:06:33 quo
+ 1269  26/05/19 03:06:33 nano funct.sh
+ 1270  26/05/19 03:06:33 source funct.sh
+ 1271  26/05/19 03:06:33 quo
+ 1272  26/05/19 03:06:33 nano funct.sh
+ 1273  26/05/19 03:06:33 source funct.sh
+ 1274  26/05/19 03:06:33 quo
+ 1275  26/05/19 03:06:33 nano funct.sh
+ 1276  26/05/19 03:06:33 source funct.sh
+ 1277  26/05/19 03:06:33 nano funct.sh
+ 1278  26/05/19 03:06:33 source funct.sh
+ 1279  26/05/19 03:06:33 nano funct.sh
+ 1280  26/05/19 03:06:33 source funct.sh
+ 1281  26/05/19 03:06:33 quo
+ 1282  26/05/19 03:06:33 nano funct.sh
+ 1283  26/05/19 03:06:33 echo "This is a small program" > fort
+ 1284  26/05/19 03:06:33 file ./fort
+ 1285  26/05/19 03:06:33 chmod a+x fort
+ 1286  26/05/19 03:06:33 fort
+ 1287  26/05/19 03:06:33 chmod u+x fort
+ 1288  26/05/19 03:06:33 fort
+ 1289  26/05/19 03:06:33 bash fort
+ 1290  26/05/19 03:06:33 cat fort
+ 1291  26/05/19 03:06:33 nano fort
+ 1292  26/05/19 03:06:33 cat fort
+ 1293  26/05/19 03:06:33 fort
+ 1294  26/05/19 03:06:33 chmod u+x fort
+ 1295  26/05/19 03:06:33 fort
+ 1296  26/05/19 03:06:33 ./fort
+ 1297  26/05/19 03:06:33 echo $HOME
+ 1298  26/05/19 03:06:33 echo $pwd
+ 1299  26/05/19 03:06:33 echo $PWD
+ 1300  26/05/19 03:06:33 echo $LS
+ 1301  26/05/19 03:06:33 echo $ROOT
+ 1302  26/05/19 03:06:33 12abc=34
+ 1303  26/05/19 03:06:33 echo Demetrius || [[ 6 -eq 7 ]] || echo Helena && echo Hermia || [[ 7 -gt 4 ]]
+ 1304  26/05/19 03:06:33 nano cool.sh
+ 1305  26/05/19 03:06:33 bash cool.sh
+ 1306  26/05/19 03:06:33 nano cool.sh
+ 1307  26/05/19 03:06:33 lab=(jeff roger brian)
+ 1308  26/05/19 03:06:33 lab[3]=sean
+ 1309  26/05/19 03:06:33 echo ${lab[*]}
+ 1310  26/05/19 03:06:33 nano cool.sh
+ 1311  26/05/19 03:06:33 bash repseq.sh 1 6 3
+ 1312  26/05/19 03:06:33 bash cool.sh 1 6 3
+ 1313  26/05/19 03:06:33 bash cool.sh 1 9 3
+ 1314  26/05/19 03:06:33 history
+ 1315  26/05/19 03:06:33 ls -lrt
+ 1316  26/05/19 03:06:33 ps
+ 1317  26/05/19 03:06:33 histroy
+ 1318  26/05/19 03:06:33 cd !
+ 1319  26/05/19 03:06:33 cd ~
+ 1320  26/05/19 03:06:33 p
+ 1321  26/05/19 03:06:33 ps
+ 1322  26/05/19 03:06:33 cd ..
+ 1323  26/05/19 03:06:33 clear
+ 1324  26/05/19 03:06:33 man git
+ 1325  26/05/19 03:06:33 git --version
+ 1326  26/05/19 03:06:33 git config --global user.name "prakhar11611654"
+ 1327  26/05/19 03:06:33 git config --global user.email fletchertandon@gmail.com
+ 1328  26/05/19 03:06:33 git --global user.name
+ 1329  26/05/19 03:06:33 mkdir sean_cross
+ 1330  26/05/19 03:06:33 ls
+ 1331  26/05/19 03:06:33 cd riddle
+ 1332  26/05/19 03:06:33 ls
+ 1333  26/05/19 03:06:33 mkdir sean_cross
+ 1334  26/05/19 03:06:33 cd sean_cross
+ 1335  26/05/19 03:06:33 git init
+ 1336  26/05/19 03:06:33 echo "Read saw dust white plain" > readme.txt
+ 1337  26/05/19 03:06:33 ls
+ 1338  26/05/19 03:06:33 git status
+ 1339  26/05/19 03:06:33 cat>>readme.txt
+ 1340  26/05/19 03:06:33 cat readme.txt
+ 1341  26/05/19 03:06:33 git status
+ 1342  26/05/19 03:06:33 commit
+ 1343  26/05/19 03:06:33 git add
+ 1344  26/05/19 03:06:33 ls
+ 1345  26/05/19 03:06:33 cat readme.txt
+ 1346  26/05/19 03:06:33 git add readme.txt
+ 1347  26/05/19 03:06:33 git status
+ 1348  26/05/19 03:06:33 cat>>readme.txt
+ 1349  26/05/19 03:06:33 git status
+ 1350  26/05/19 03:06:33 echo readme.txt
+ 1351  26/05/19 03:06:33 cat readme.txt
+ 1352  26/05/19 03:06:33 git checkout -- readme.txt
+ 1353  26/05/19 03:06:33 cat readme.txt
+ 1354  26/05/19 03:06:33 git status
+ 1355  26/05/19 03:06:33 man git
+ 1356  26/05/19 03:06:33 ls
+ 1357  26/05/19 03:06:33 cat>>readme.txt
+ 1358  26/05/19 03:06:33 git commit
+ 1359  26/05/19 03:06:33 git commit -m "added"
+ 1360  26/05/19 03:06:33 ls
+ 1361  26/05/19 03:06:33 cat readme.txt
+ 1362  26/05/19 03:06:33 git checkout -- readme.txt
+ 1363  26/05/19 03:06:33 cat readme.txt
+ 1364  26/05/19 03:06:33 cat>>readme.txt
+ 1365  26/05/19 03:06:33 cat readme.txt
+ 1366  26/05/19 03:06:33 git commit -m "directly added to the main"
+ 1367  26/05/19 03:06:33 cat readme.txt
+ 1368  26/05/19 03:06:33 git checkout -- readme.txt
+ 1369  26/05/19 03:06:33 cat readme.txt
+ 1370  26/05/19 03:06:33 git status
+ 1371  26/05/19 03:06:33 find . -name "*.txt"
+ 1372  26/05/19 03:06:33 find . -name "~/*.txt"
+ 1373  26/05/19 03:06:33 find . -name "~/riddle*.txt"
+ 1374  26/05/19 03:06:33 ls
+ 1375  26/05/19 03:06:33 ps
+ 1376  26/05/19 03:06:33 ls
+ 1377  26/05/19 03:06:33 ps
+ 1378  26/05/19 03:06:33 cd Pictures
+ 1379  26/05/19 03:06:33 cd sean
+ 1380  26/05/19 03:06:33 find . -name "sean*"
+ 1381  26/05/19 03:06:33 file
+ 1382  26/05/19 03:06:33 file .*
+ 1383  26/05/19 03:06:33 file *
+ 1384  26/05/19 03:06:33 file ./*
+ 1385  26/05/19 03:06:33 find . -name "*:
+ 1386  26/05/19 03:06:33 "
+ 1387  26/05/19 03:06:33 man msfvenom
+ 1388  26/05/19 03:06:33 ps
+ 1389  26/05/19 03:06:33 ls -lrt
+ 1390  26/05/19 03:06:33 ps -l
+ 1391  26/05/19 03:06:33 ./
+ 1392  26/05/19 03:06:33 cd ~
+ 1393  26/05/19 03:06:33 git help status
+ 1394  26/05/19 03:06:33 git log
+ 1395  26/05/19 03:06:33 /
+ 1396  26/05/19 03:06:33 man airmon
+ 1397  26/05/19 03:06:33 man aircrack
+ 1398  26/05/19 03:06:33 man ifconfig
+ 1399  26/05/19 03:06:33 git log
+ 1400  26/05/19 03:06:33 ls
+ 1401  26/05/19 03:06:33 git checkout madmax.txt
+ 1402  26/05/19 03:06:33 ls
+ 1403  26/05/19 03:06:33 cat madmax.txt
+ 1404  26/05/19 03:06:33 airmon-ng
+ 1405  26/05/19 03:06:33 sudo airmon-ng
+ 1406  26/05/19 03:06:33 git log
+ 1407  26/05/19 03:06:33 ls
+ 1408  26/05/19 03:06:33 echo "madmax got into trouble" >> madmax.txt
+ 1409  26/05/19 03:06:33 cat madmax.txt
+ 1410  26/05/19 03:06:33 git commit -m "second commit"
+ 1411  26/05/19 03:06:33 git log
+ 1412  26/05/19 03:06:33 echo "term paper final" >> madmax.txt
+ 1413  26/05/19 03:06:33 git commit -m "third log"
+ 1414  26/05/19 03:06:33 git add madmax.txt
+ 1415  26/05/19 03:06:33 echo "term paper final" >> madmax.txt
+ 1416  26/05/19 03:06:33 git commit -m "third log"
+ 1417  26/05/19 03:06:33 git log
+ 1418  26/05/19 03:06:33 git diff madmax.txt
+ 1419  26/05/19 03:06:33 nano madmax.txt
+ 1420  26/05/19 03:06:33 git log
+ 1421  26/05/19 03:06:33 git diff madmax.txt
+ 1422  26/05/19 03:06:33 ls -lrt
+ 1423  26/05/19 03:06:33 ls
+ 1424  26/05/19 03:06:33 git add madmax.txt
+ 1425  26/05/19 03:06:33 cat madmax.txt
+ 1426  26/05/19 03:06:33 git diff madmax.txt
+ 1427  26/05/19 03:06:33 echo "fandom" >> madmax.txt
+ 1428  26/05/19 03:06:33 git commit -m "added"
+ 1429  26/05/19 03:06:33 git log
+ 1430  26/05/19 03:06:33 git diff madmax.txt
+ 1431  26/05/19 03:06:33 nano madmax.txt
+ 1432  26/05/19 03:06:33 cat madmax.txt
+ 1433  26/05/19 03:06:33 git commit -m "deleted another"
+ 1434  26/05/19 03:06:33 cat madmax.txt
+ 1435  26/05/19 03:06:33 git diff madmax.txt
+ 1436  26/05/19 03:06:33 gitignore
+ 1437  26/05/19 03:06:33 git help ignore
+ 1438  26/05/19 03:06:33 touch motherdairy
+ 1439  26/05/19 03:06:33 touch motherdair.jpg
+ 1440  26/05/19 03:06:33 git status
+ 1441  26/05/19 03:06:33 git add motherdair.jpg
+ 1442  26/05/19 03:06:33 git status
+ 1443  26/05/19 03:06:33 nano .gitignore
+ 1444  26/05/19 03:06:33 echo "*.jpg" > .gitignore
+ 1445  26/05/19 03:06:33 cat .gitignore
+ 1446  26/05/19 03:06:33 git status
+ 1447  26/05/19 03:06:33 touch common.jph
+ 1448  26/05/19 03:06:33 touch common.jpg
+ 1449  26/05/19 03:06:33 git status
+ 1450  26/05/19 03:06:33 touch gitcommon.jpg
+ 1451  26/05/19 03:06:33 ls
+ 1452  26/05/19 03:06:33 git status
+ 1453  26/05/19 03:06:33 git add gitcommon.jpg
+ 1454  26/05/19 03:06:33 git add gitcommon.jpg -f
+ 1455  26/05/19 03:06:33 touch corema.jpg
+ 1456  26/05/19 03:06:33 git status
+ 1457  26/05/19 03:06:33 git coreal.jpeg
+ 1458  26/05/19 03:06:33 git add coreal.jpeg
+ 1459  26/05/19 03:06:33 ls
+ 1460  26/05/19 03:06:33 git add common.jpg
+ 1461  26/05/19 03:06:33 git add corema.jpeg
+ 1462  26/05/19 03:06:33 touch corema.jpeg
+ 1463  26/05/19 03:06:33 git add corema.jpeg
+ 1464  26/05/19 03:06:33 echo "*.jpeg" > .gitignore
+ 1465  26/05/19 03:06:33 touch tar.jpeg
+ 1466  26/05/19 03:06:33 git add tar.jpeg
+ 1467  26/05/19 03:06:33 git help
+ 1468  26/05/19 03:06:33 git help log
+ 1469  26/05/19 03:06:33 git loh
+ 1470  26/05/19 03:06:33 git log
+ 1471  26/05/19 03:06:33 git log > persona.txt
+ 1472  26/05/19 03:06:33 nano persona.txt
+ 1473  26/05/19 03:06:33 ps
+ 1474  26/05/19 03:06:33 ls
+ 1475  26/05/19 03:06:33 cat script.sh
+ 1476  26/05/19 03:06:33 tcpdump D
+ 1477  26/05/19 03:06:33 sudo tcpdump D
+ 1478  26/05/19 03:06:33 sudo tcpdump -D
+ 1479  26/05/19 03:06:33 tcpdump -i wlan0 -c 100
+ 1480  26/05/19 03:06:33 sudo tcpdump -i wlan0 -c 100
+ 1481  26/05/19 03:06:33 ifconfig
+ 1482  26/05/19 03:06:33 man tcpdump
+ 1483  26/05/19 03:06:33 tcpdump wlan0
+ 1484  26/05/19 03:06:33 sudo tcpdump wlan0
+ 1485  26/05/19 03:06:33 tcpdump -i wlan0
+ 1486  26/05/19 03:06:33 sudo tcpdump -i wlan0
+ 1487  26/05/19 03:06:33 tcpdump -D
+ 1488  26/05/19 03:06:33 tcpdump D
+ 1489  26/05/19 03:06:33 sudo tcpdump -D
+ 1490  26/05/19 03:06:33 find . -name "*.pcap"
+ 1491  26/05/19 03:06:33 find "*.pcap"
+ 1492  26/05/19 03:06:33 ps --aux
+ 1493  26/05/19 03:06:33 man pas
+ 1494  26/05/19 03:06:33 man ps
+ 1495  26/05/19 03:06:33 ps ax
+ 1496  26/05/19 03:06:33 sudo tcpdump =D
+ 1497  26/05/19 03:06:33 sudo tcpdump -D
+ 1498  26/05/19 03:06:33 tcpdump -i wlan0 > fervour.pcap
+ 1499  26/05/19 03:06:33 sudo tcpdump -i wlan0 > fervour.pcap
+ 1500  26/05/19 03:06:33 man cryptcat
+ 1501  26/05/19 03:06:33 man dd
+ 1502  26/05/19 03:06:33 ls
+ 1503  26/05/19 03:06:33 dd canada.txt
+ 1504  26/05/19 03:06:33 dd -s
+ 1505  26/05/19 03:06:33 dd --help
+ 1506  26/05/19 03:06:33 dd
+ 1507  26/05/19 03:06:33 bit
+ 1508  26/05/19 03:06:33 man *bit
+ 1509  26/05/19 03:06:33 man bit*
+ 1510  26/05/19 03:06:33 man d*
+ 1511  26/05/19 03:06:33 man dd*
+ 1512  26/05/19 03:06:33 man *dd
+ 1513  26/05/19 03:06:33 ssh
+ 1514  26/05/19 03:06:33 ssh https://github.com/prakhar11611654/hexthehashes.git
+ 1515  26/05/19 03:06:33 ls
+ 1516  26/05/19 03:06:33 ps
+ 1517  26/05/19 03:06:33 ls -lrt
+ 1518  26/05/19 03:06:33 ps
+ 1519  26/05/19 03:06:33 ;s
+ 1520  26/05/19 03:06:33 ls
+ 1521  26/05/19 03:06:33 ps
+ 1522  26/05/19 03:06:33 tryn
+ 1523  26/05/19 03:06:33 alias conquer="pwd"
+ 1524  26/05/19 03:06:33 compque
+ 1525  26/05/19 03:06:33 conquer
+ 1526  26/05/19 03:06:33 pslist
+ 1527  26/05/19 03:06:33 ps
+ 1528  26/05/19 03:06:33 ps -l
+ 1529  26/05/19 03:06:33 pslist
+ 1530  26/05/19 03:06:33 man ps
+ 1531  26/05/19 03:06:33 ps -aux
+ 1532  26/05/19 03:06:33 mergecap
+ 1533  26/05/19 03:06:33 man mergecap
+ 1534  26/05/19 03:06:33 xplico
+ 1535  26/05/19 03:06:33 man xplico
+ 1536  26/05/19 03:06:33 man xplio
+ 1537  26/05/19 03:06:33 man explico
+ 1538  26/05/19 03:06:33 xplico
+ 1539  26/05/19 03:06:33 sudo apt-get update
+ 1540  26/05/19 03:06:33 git help status
+ 1541  26/05/19 03:06:33 git help git status
+ 1542  26/05/19 03:06:33 git help gitstatus
+ 1543  26/05/19 03:06:33 git help
+ 1544  26/05/19 03:06:33 git help log
+ 1545  26/05/19 03:06:33 git help diff
+ 1546  26/05/19 03:06:33 git help git diff
+ 1547  26/05/19 03:06:33 ls
+ 1548  26/05/19 03:06:33 ps
+ 1549  26/05/19 03:06:33 sudo apt-get upgrade
+ 1550  26/05/19 03:06:33 apt-get upgrade --fix-miss
+ 1551  26/05/19 03:06:33 sudo apt-get upgrade --fix-miss
+ 1552  26/05/19 03:06:33 sudo tcpdump -D
+ 1553  26/05/19 03:06:33 ps
+ 1554  26/05/19 03:06:33 ls -lrt
+ 1555  26/05/19 03:06:33 exit
+ 1556  26/05/19 03:06:33 git remote
+ 1557  26/05/19 03:06:33 mkdir combat
+ 1558  26/05/19 03:06:33 cd combat
+ 1559  26/05/19 03:06:33 git init
+ 1560  26/05/19 03:06:33 git remote
+ 1561  26/05/19 03:06:33 git
+ 1562  26/05/19 03:06:33 git remote --add https://github.com/prakhar11611654/hexthehashes
+ 1563  26/05/19 03:06:33 git remote --add flux https://github.com/prakhar11611654/hexthehashes
+ 1564  26/05/19 03:06:33 git remote add flux https://github.com/prakhar11611654/hexthehashes
+ 1565  26/05/19 03:06:33 git remote
+ 1566  26/05/19 03:06:33 touch mad.md
+ 1567  26/05/19 03:06:33 nano mad.md
+ 1568  26/05/19 03:06:33 git push -u flux master
+ 1569  26/05/19 03:06:33 git push -u master flux
+ 1570  26/05/19 03:06:33 git push -u flux master
+ 1571  26/05/19 03:06:33 ls
+ 1572  26/05/19 03:06:33 git add mad.md
+ 1573  26/05/19 03:06:33 git commit -m "commited to quality"
+ 1574  26/05/19 03:06:33 git status
+ 1575  26/05/19 03:06:33 git log
+ 1576  26/05/19 03:06:33 git push -u flux master
+ 1577  26/05/19 03:06:33 ls
+ 1578  26/05/19 03:06:33 cat mad.md
+ 1579  26/05/19 03:06:33 git remote
+ 1580  26/05/19 03:06:33 mkdir combat
+ 1581  26/05/19 03:06:33 cd combat
+ 1582  26/05/19 03:06:33 git init
+ 1583  26/05/19 03:06:33 git remote
+ 1584  26/05/19 03:06:33 git
+ 1585  26/05/19 03:06:33 git remote --add https://github.com/prakhar11611654/hexthehashes
+ 1586  26/05/19 03:06:33 git remote --add flux https://github.com/prakhar11611654/hexthehashes
+ 1587  26/05/19 03:06:33 git remote add flux https://github.com/prakhar11611654/hexthehashes
+ 1588  26/05/19 03:06:33 git remote
+ 1589  26/05/19 03:06:33 touch mad.md
+ 1590  26/05/19 03:06:33 nano mad.md
+ 1591  26/05/19 03:06:33 git push -u flux master
+ 1592  26/05/19 03:06:33 git push -u master flux
+ 1593  26/05/19 03:06:33 git push -u flux master
+ 1594  26/05/19 03:06:33 ls
+ 1595  26/05/19 03:06:33 git add mad.md
+ 1596  26/05/19 03:06:33 git commit -m "commited to quality"
+ 1597  26/05/19 03:06:33 git status
+ 1598  26/05/19 03:06:33 git log
+ 1599  26/05/19 03:06:33 git push -u flux master
+ 1600  26/05/19 03:06:33 ls
+ 1601  26/05/19 03:06:33 cat mad.md
+ 1602  26/05/19 03:06:33 ls -lrt
+ 1603  26/05/19 03:06:33 ps -lrt
+ 1604  26/05/19 03:06:33 w
+ 1605  26/05/19 03:06:33 ps -lrt
+ 1606  26/05/19 03:06:33 pwd
+ 1607  26/05/19 03:06:33 mkdir quefs
+ 1608  26/05/19 03:06:33 cd quefs
+ 1609  26/05/19 03:06:33 git init
+ 1610  26/05/19 03:06:33 echo "terminology" >>restart.txt
+ 1611  26/05/19 03:06:33 git pull
+ 1612  26/05/19 03:06:33 git add restart.txt
+ 1613  26/05/19 03:06:33 git status
+ 1614  26/05/19 03:06:33 git log
+ 1615  26/05/19 03:06:33 git commit -m "added a new file"
+ 1616  26/05/19 03:06:33 git log
+ 1617  26/05/19 03:06:33 git status
+ 1618  26/05/19 03:06:33 ls
+ 1619  26/05/19 03:06:33 cat restart.txt
+ 1620  26/05/19 03:06:33 echo termfus >> restart.txt
+ 1621  26/05/19 03:06:33 cat termfux
+ 1622  26/05/19 03:06:33 cat termfux.txt
+ 1623  26/05/19 03:06:33 cat restart.txt
+ 1624  26/05/19 03:06:33 git diff restart.txt
+ 1625  26/05/19 03:06:33 git log
+ 1626  26/05/19 03:06:33 git status
+ 1627  26/05/19 03:06:33 cat restart.tx
+ 1628  26/05/19 03:06:33 cat restart.txt
+ 1629  26/05/19 03:06:33 git branch
+ 1630  26/05/19 03:06:33 git branch morfo
+ 1631  26/05/19 03:06:33 git branch
+ 1632  26/05/19 03:06:33 git checkout morfo
+ 1633  26/05/19 03:06:33 ls
+ 1634  26/05/19 03:06:33 cat restart.txt
+ 1635  26/05/19 03:06:33 cat>>restart.txt
+ 1636  26/05/19 03:06:33 cat restart.txt
+ 1637  26/05/19 03:06:33 git branch master
+ 1638  26/05/19 03:06:33 git checkout master
+ 1639  26/05/19 03:06:33 ls
+ 1640  26/05/19 03:06:33 cat restart.txt
+ 1641  26/05/19 03:06:33 git merge morfo
+ 1642  26/05/19 03:06:33 ls
+ 1643  26/05/19 03:06:33 cat restart.txt
+ 1644  26/05/19 03:06:33 git remote
+ 1645  26/05/19 03:06:33 git remote -add https://github.com/prakhar11611654/Query_Handling
+ 1646  26/05/19 03:06:33 git add https://github.com/prakhar11611654/Query_Handling
+ 1647  26/05/19 03:06:33 git remote
+ 1648  26/05/19 03:06:33 git remote add https://github.com/prakhar11611654/Query_Handling
+ 1649  26/05/19 03:06:33 git help remote
+ 1650  26/05/19 03:06:33 git remote add https://github.com/prakhar11611654/Query_Handling -m
+ 1651  26/05/19 03:06:33 git help remote
+ 1652  26/05/19 03:06:33 git remote -u flux master
+ 1653  26/05/19 03:06:33 git branch
+ 1654  26/05/19 03:06:33 git push -u flux master
+ 1655  26/05/19 03:06:33 git push -u flux morfo
+ 1656  26/05/19 03:06:33 git remote
+ 1657  26/05/19 03:06:33 git branch
+ 1658  26/05/19 03:06:33 ld
+ 1659  26/05/19 03:06:33 l
+ 1660  26/05/19 03:06:33 ls
+ 1661  26/05/19 03:06:33 git remote add fluxee https://github.com/prakhar11611654/repo1.git
+ 1662  26/05/19 03:06:33 git remote
+ 1663  26/05/19 03:06:33 git remote add fluxee https://github.com/prakhar11611654/repo1.git
+ 1664  26/05/19 03:06:33 git add https://github.com/prakhar11611654/repo1.git
+ 1665  26/05/19 03:06:33 git push -u fluxee master
+ 1666  26/05/19 03:06:33 ls
+ 1667  26/05/19 03:06:33 cat restart.txt
+ 1668  26/05/19 03:06:33 git help
+ 1669  26/05/19 03:06:33 git help add
+ 1670  26/05/19 03:06:33 git help remote
+ 1671  26/05/19 03:06:33 git branch
+ 1672  26/05/19 03:06:33 git checkout master
+ 1673  26/05/19 03:06:33 ls
+ 1674  26/05/19 03:06:33 echo "burnie" >> cumm.txt
+ 1675  26/05/19 03:06:33 echo "toby" >> cumm.txt
+ 1676  26/05/19 03:06:33 echo "file1" >> cumm.txt
+ 1677  26/05/19 03:06:33 echo "file2" >> cumm.txt
+ 1678  26/05/19 03:06:33 echo "readme" >> cumm.txt
+ 1679  26/05/19 03:06:33 ls
+ 1680  26/05/19 03:06:33 echo "readme" >> cumm1.txt
+ 1681  26/05/19 03:06:33 echo "readme" >> cumm2.txt
+ 1682  26/05/19 03:06:33 echo "readme" >> cumm3.txt
+ 1683  26/05/19 03:06:33 echo "readme" >> cumm4.txt
+ 1684  26/05/19 03:06:33 ls -lrt
+ 1685  26/05/19 03:06:33 git branch
+ 1686  26/05/19 03:06:33 git add *.txt
+ 1687  26/05/19 03:06:33 git add *.md
+ 1688  26/05/19 03:06:33 git checkout morfo
+ 1689  26/05/19 03:06:33 ls -lrt
+ 1690  26/05/19 03:06:33 git merge morfo
+ 1691  26/05/19 03:06:33 git merge master
+ 1692  26/05/19 03:06:33 git remote add -t master provoker https://github.com/prakhar11611654/provoker.github.io
+ 1693  26/05/19 03:06:33 git push provoker master
+ 1694  26/05/19 03:06:33 git push
+ 1695  26/05/19 03:06:33 ifconfig
+ 1696  26/05/19 03:06:33 cal
+ 1697  26/05/19 03:06:33 ps -l
+ 1698  26/05/19 03:06:33 kill 1000
+ 1699  26/05/19 03:06:33 sudo -i
+ 1700  26/05/19 03:06:33 dirbuster
+ 1701  26/05/19 03:06:33 cd ..
+ 1702  26/05/19 03:06:33 cd Downloads
+ 1703  26/05/19 03:06:33 ls -lrt
+ 1704  26/05/19 03:06:33 openvpn
+ 1705  26/05/19 03:06:33 openvpn fletcherwolf69.ovpn
+ 1706  26/05/19 03:06:33 ls -lrt
+ 1707  26/05/19 03:06:33 lshw
+ 1708  26/05/19 03:06:33 ping htv
+ 1709  26/05/19 03:06:33 sudo cat etc/hosts
+ 1710  26/05/19 03:06:33 find . -name "etc/hosts/"
+ 1711  26/05/19 03:06:33 find . -name "etc/hosts"
+ 1712  26/05/19 03:06:33 ping localhosy
+ 1713  26/05/19 03:06:33 ping localhost
+ 1714  26/05/19 03:06:33 harvester
+ 1715  26/05/19 03:06:33 history
+ 1716  26/05/19 03:06:33 harvester
+ 1717  26/05/19 03:06:33 ping  10.10.10.152 
+ 1718  26/05/19 03:06:33 ftp
+ 1719  26/05/19 03:06:33 ftp help
+ 1720  26/05/19 03:06:33 openssh
+ 1721  26/05/19 03:06:33 openssl
+ 1722  26/05/19 03:06:33 ping https://gleam.io/PSzHT/tg-vivo-v15-giveaway?gsr=PSzHT-10orB3KlpP2
+ 1723  26/05/19 03:06:33 ping gleam.io/PSzHT/tg-vivo-v15-giveaway?gsr=PSzHT-10orB3KlpP2
+ 1724  26/05/19 03:06:33 ping gleam.io/PSzHT
+ 1725  26/05/19 03:06:33 ping gleam.io/PSzHT/
+ 1726  26/05/19 03:06:33 nmap -sS -T https://gleam.io/PSzHT/tg-vivo-v15-giveaway?gsr=PSzHT-10orB3KlpP2
+ 1727  26/05/19 03:06:33 nmap -sS -T https://www.gleam.io/PSzHT/tg-vivo-v15-giveaway?gsr=PSzHT-10orB3KlpP2
+ 1728  26/05/19 03:06:33 fport
+ 1729  26/05/19 03:06:33 w
+ 1730  26/05/19 03:06:33 ping ums.lpu.in
+ 1731  26/05/19 03:06:33 ls
+ 1732  26/05/19 03:06:33 ps
+ 1733  26/05/19 03:06:33 mkdir quessna
+ 1734  26/05/19 03:06:33 cd quessna
+ 1735  26/05/19 03:06:33 git init
+ 1736  26/05/19 03:06:33 nano qui.sh
+ 1737  26/05/19 03:06:33 bash qui.sh
+ 1738  26/05/19 03:06:33 nano qui.sh
+ 1739  26/05/19 03:06:33 bash qui.sh
+ 1740  26/05/19 03:06:33 nano qui.sh
+ 1741  26/05/19 03:06:33 bash qui.sh
+ 1742  26/05/19 03:06:33 cat qui.sh
+ 1743  26/05/19 03:06:33 git help add
+ 1744  26/05/19 03:06:33 git --version
+ 1745  26/05/19 03:06:33 git config --global user.name 
+ 1746  26/05/19 03:06:33 git config --global user.email
+ 1747  26/05/19 03:06:33 git remote
+ 1748  26/05/19 03:06:33 git branch
+ 1749  26/05/19 03:06:33 git status
+ 1750  26/05/19 03:06:33 git branch
+ 1751  26/05/19 03:06:33 git branch kasurt
+ 1752  26/05/19 03:06:33 git init
+ 1753  26/05/19 03:06:33 touch manifo.txt
+ 1754  26/05/19 03:06:33 cat>>manifo.txt
+ 1755  26/05/19 03:06:33 cat manifresto
+ 1756  26/05/19 03:06:33 cat manifresto.txt
+ 1757  26/05/19 03:06:33 cat manifo.txt
+ 1758  26/05/19 03:06:33 git add manifo.txt
+ 1759  26/05/19 03:06:33 git commit -m "commites"
+ 1760  26/05/19 03:06:33 git statusx
+ 1761  26/05/19 03:06:33 git log
+ 1762  26/05/19 03:06:33 git status
+ 1763  26/05/19 03:06:33 ls
+ 1764  26/05/19 03:06:33 git add manifo.txt
+ 1765  26/05/19 03:06:33 git status
+ 1766  26/05/19 03:06:33 git rm manifo.txt
+ 1767  26/05/19 03:06:33 ls
+ 1768  26/05/19 03:06:33 git status
+ 1769  26/05/19 03:06:33 touch pro.txt
+ 1770  26/05/19 03:06:33 git add pro.txt
+ 1771  26/05/19 03:06:33 git rm --cached pro.txt
+ 1772  26/05/19 03:06:33 git commit -m "deleted pro.txt
+ 1773  26/05/19 03:06:33 "
+ 1774  26/05/19 03:06:33 git status
+ 1775  26/05/19 03:06:33 git reset
+ 1776  26/05/19 03:06:33 git status
+ 1777  26/05/19 03:06:33 ls
+ 1778  26/05/19 03:06:33 git rm pro.txt
+ 1779  26/05/19 03:06:33 git rm --cached pro.txt
+ 1780  26/05/19 03:06:33 ls
+ 1781  26/05/19 03:06:33 rm pro.txt
+ 1782  26/05/19 03:06:33 ls
+ 1783  26/05/19 03:06:33 git statsu
+ 1784  26/05/19 03:06:33 git status
+ 1785  26/05/19 03:06:33 git reset --soft HEAD~
+ 1786  26/05/19 03:06:33 ls
+ 1787  26/05/19 03:06:33 git status
+ 1788  26/05/19 03:06:33 ls
+ 1789  26/05/19 03:06:33 mv qui.sh term.txt
+ 1790  26/05/19 03:06:33 ls
+ 1791  26/05/19 03:06:33 cat term.txt
+ 1792  26/05/19 03:06:33 git status
+ 1793  26/05/19 03:06:33 touch mofo.txt
+ 1794  26/05/19 03:06:33 git add mofo.txt
+ 1795  26/05/19 03:06:33 git status
+ 1796  26/05/19 03:06:33 mv mofo.txt ram.txt
+ 1797  26/05/19 03:06:33 git status
+ 1798  26/05/19 03:06:33 git add ram.txt
+ 1799  26/05/19 03:06:33 git status
+ 1800  26/05/19 03:06:33 cd ..
+ 1801  26/05/19 03:06:33 rm quessna
+ 1802  26/05/19 03:06:33 rm -r quessna
+ 1803  26/05/19 03:06:33 sudo rm -r quessna
+ 1804  26/05/19 03:06:33 ls
+ 1805  26/05/19 03:06:33 mkdir cura
+ 1806  26/05/19 03:06:33 cd cura
+ 1807  26/05/19 03:06:33 git init
+ 1808  26/05/19 03:06:33 touch fatal.txt
+ 1809  26/05/19 03:06:33 git add fatal.txt
+ 1810  26/05/19 03:06:33 git commit -m "added hence"
+ 1811  26/05/19 03:06:33 ls
+ 1812  26/05/19 03:06:33 cat fatal.txt
+ 1813  26/05/19 03:06:33 cat>>fatal.txt
+ 1814  26/05/19 03:06:33 git commit -m "done"
+ 1815  26/05/19 03:06:33 git status
+ 1816  26/05/19 03:06:33 touch 1.txt
+ 1817  26/05/19 03:06:33 touch 2.txt
+ 1818  26/05/19 03:06:33 git add .txt
+ 1819  26/05/19 03:06:33 git add *.txt
+ 1820  26/05/19 03:06:33 git rm --cached 2.txt
+ 1821  26/05/19 03:06:33 ls
+ 1822  26/05/19 03:06:33 git reset -SOFT ~HEAD
+ 1823  26/05/19 03:06:33 git reset
+ 1824  26/05/19 03:06:33 ls
+ 1825  26/05/19 03:06:33 git add 1.txt
+ 1826  26/05/19 03:06:33 git commit -m "done 2"
+ 1827  26/05/19 03:06:33 git status
+ 1828  26/05/19 03:06:33 git help status
+ 1829  26/05/19 03:06:33 git log
+ 1830  26/05/19 03:06:33 ld
+ 1831  26/05/19 03:06:33 ls
+ 1832  26/05/19 03:06:33 cat>>1.txt
+ 1833  26/05/19 03:06:33 git diff 1.txt
+ 1834  26/05/19 03:06:33 ls
+ 1835  26/05/19 03:06:33 cat 1.txt
+ 1836  26/05/19 03:06:33 git add 1.txt
+ 1837  26/05/19 03:06:33 git log
+ 1838  26/05/19 03:06:33 cat 1.txt
+ 1839  26/05/19 03:06:33 cat>>1.txt
+ 1840  26/05/19 03:06:33 cat 1.txt
+ 1841  26/05/19 03:06:33 git checkout 1.txt
+ 1842  26/05/19 03:06:33 cat 1.txt
+ 1843  26/05/19 03:06:33 git checkout 1.txt
+ 1844  26/05/19 03:06:33 cat 1.txt
+ 1845  26/05/19 03:06:33 cat>>1.txt
+ 1846  26/05/19 03:06:33 cat 1.txt
+ 1847  26/05/19 03:06:33 git commit -m "done the changes"
+ 1848  26/05/19 03:06:33 cat 1.txt
+ 1849  26/05/19 03:06:33 git checkout 1.txt
+ 1850  26/05/19 03:06:33 cat 1.txt
+ 1851  26/05/19 03:06:33 cat .ignore
+ 1852  26/05/19 03:06:33 cat .gitignore
+ 1853  26/05/19 03:06:33 echo "*.txt
+ 1854  26/05/19 03:06:33 " >> .gitignore
+ 1855  26/05/19 03:06:33 cat .gitignore
+ 1856  26/05/19 03:06:33 touch 34.txt
+ 1857  26/05/19 03:06:33 git add 34.txt
+ 1858  26/05/19 03:06:33 git commit -m "added a new git file"
+ 1859  26/05/19 03:06:33 git log
+ 1860  26/05/19 03:06:33 git log 
+ 1861  26/05/19 03:06:33 git help log
+ 1862  26/05/19 03:06:33 git help diff
+ 1863  26/05/19 03:06:33 git log >> tomish.txt
+ 1864  26/05/19 03:06:33 cat tomish.txt
+ 1865  26/05/19 03:06:33 grep "Date: " tomish.txt
+ 1866  26/05/19 03:06:33 git branch
+ 1867  26/05/19 03:06:33 git branch frost
+ 1868  26/05/19 03:06:33 git branch
+ 1869  26/05/19 03:06:33 git checkout frosty
+ 1870  26/05/19 03:06:33 git checkout frostt
+ 1871  26/05/19 03:06:33 git checkout frost
+ 1872  26/05/19 03:06:33 git remote
+ 1873  26/05/19 03:06:33 git bramc
+ 1874  26/05/19 03:06:33 git branch
+ 1875  26/05/19 03:06:33 git checkout master
+ 1876  26/05/19 03:06:33 git remote
+ 1877  26/05/19 03:06:33 git config --user.name
+ 1878  26/05/19 03:06:33 git branch
+ 1879  26/05/19 03:06:33 git -d checkout frost
+ 1880  26/05/19 03:06:33 git branch -d frost
+ 1881  26/05/19 03:06:33 git branch
+ 1882  26/05/19 03:06:33 git branch mr
+ 1883  26/05/19 03:06:33 git checkout mr
+ 1884  26/05/19 03:06:33 git branch
+ 1885  26/05/19 03:06:33 touch 34.txt
+ 1886  26/05/19 03:06:33 touch 35.txt
+ 1887  26/05/19 03:06:33 cat>>34.txt
+ 1888  26/05/19 03:06:33 cat>>35.txt
+ 1889  26/05/19 03:06:33 git commit -m "added as well as edited"
+ 1890  26/05/19 03:06:33 ls
+ 1891  26/05/19 03:06:33 git add *.txt
+ 1892  26/05/19 03:06:33 ls
+ 1893  26/05/19 03:06:33 git brach
+ 1894  26/05/19 03:06:33 git branch
+ 1895  26/05/19 03:06:33 git checkout master
+ 1896  26/05/19 03:06:33 ls
+ 1897  26/05/19 03:06:33 git merge master
+ 1898  26/05/19 03:06:33 ls
+ 1899  26/05/19 03:06:33 cat 1.txt
+ 1900  26/05/19 03:06:33 git branch
+ 1901  26/05/19 03:06:33 git commit -m "added up"
+ 1902  26/05/19 03:06:33 git lo
+ 1903  26/05/19 03:06:33 git log
+ 1904  26/05/19 03:06:33 git status
+ 1905  26/05/19 03:06:33 git log less
+ 1906  26/05/19 03:06:33 git log | less
+ 1907  26/05/19 03:06:33 git branch
+ 1908  26/05/19 03:06:33 ls
+ 1909  26/05/19 03:06:33 echo "dont fret over it" >> fatal.txt
+ 1910  26/05/19 03:06:33 cat fatal.txt
+ 1911  26/05/19 03:06:33 git checkout mr
+ 1912  26/05/19 03:06:33 git branch
+ 1913  26/05/19 03:06:33 git checkout mr
+ 1914  26/05/19 03:06:33 git commit -m "gone"
+ 1915  26/05/19 03:06:33 git checkout mr
+ 1916  26/05/19 03:06:33 cat fatal.txt
+ 1917  26/05/19 03:06:33 git checkout mr
+ 1918  26/05/19 03:06:33 git reset
+ 1919  26/05/19 03:06:33 git branch mr
+ 1920  26/05/19 03:06:33 git checkout mr
+ 1921  26/05/19 03:06:33 git status
+ 1922  26/05/19 03:06:33 cd .. 
+ 1923  26/05/19 03:06:33 rm -f ura
+ 1924  26/05/19 03:06:33 rm -f cura
+ 1925  26/05/19 03:06:33 rm -r cura
+ 1926  26/05/19 03:06:33 sudo rm -r cura
+ 1927  26/05/19 03:06:33 ls
+ 1928  26/05/19 03:06:33 mkdir purpose
+ 1929  26/05/19 03:06:33 cd purpose
+ 1930  26/05/19 03:06:33 ls'
+ 1931  26/05/19 03:06:33 touch ferv.txt
+ 1932  26/05/19 03:06:33 cat>>ferv.txt
+ 1933  26/05/19 03:06:33 cat ferv.txt
+ 1934  26/05/19 03:06:33 echo "ferddd" >> ferv.txt
+ 1935  26/05/19 03:06:33 cat ferv.txt
+ 1936  26/05/19 03:06:33 git branch secure
+ 1937  26/05/19 03:06:33 git branch
+ 1938  26/05/19 03:06:33 git init
+ 1939  26/05/19 03:06:33 ls
+ 1940  26/05/19 03:06:33 git add ferv.txt
+ 1941  26/05/19 03:06:33 git commit -m "added"
+ 1942  26/05/19 03:06:33 git log
+ 1943  26/05/19 03:06:33 sl
+ 1944  26/05/19 03:06:33 git branch ghj
+ 1945  26/05/19 03:06:33 git checkout ghj\
+ 1946  26/05/19 03:06:33 git checkout ghj
+ 1947  26/05/19 03:06:33 ls
+ 1948  26/05/19 03:06:33 cat ferv.txt
+ 1949  26/05/19 03:06:33 echo "terf" >> ferv.txt
+ 1950  26/05/19 03:06:33 cat ferv.txt
+ 1951  26/05/19 03:06:33 git commit -m "added another libe"
+ 1952  26/05/19 03:06:33 git checkout master
+ 1953  26/05/19 03:06:33 ls
+ 1954  26/05/19 03:06:33 cat ferv.txt
+ 1955  26/05/19 03:06:33 git merge ghj
+ 1956  26/05/19 03:06:33 git remote
+ 1957  26/05/19 03:06:33 git remote add fluxee https://github.com/prakhar11611654/repo1
+ 1958  26/05/19 03:06:33 git remote
+ 1959  26/05/19 03:06:33 git pull\
+ 1960  26/05/19 03:06:33 git pull
+ 1961  26/05/19 03:06:33 git push
+ 1962  26/05/19 03:06:33 git remote
+ 1963  26/05/19 03:06:33 ls
+ 1964  26/05/19 03:06:33 git push add
+ 1965  26/05/19 03:06:33 git help push
+ 1966  26/05/19 03:06:33 git push master
+ 1967  26/05/19 03:06:33 git push -u fluxee master
+ 1968  26/05/19 03:06:33 git remote
+ 1969  26/05/19 03:06:33 git push -u fluxee master
+ 1970  26/05/19 03:06:33 ls
+ 1971  26/05/19 03:06:33 git add ferv.txt
+ 1972  26/05/19 03:06:33 git commit -m "added"
+ 1973  26/05/19 03:06:33 git push -u fluxee master
+ 1974  26/05/19 03:06:33 git remote
+ 1975  26/05/19 03:06:33 git remote add mio https://github.com/prakhar11611654/new_repository.git
+ 1976  26/05/19 03:06:33 git remote
+ 1977  26/05/19 03:06:33 touch first.txt
+ 1978  26/05/19 03:06:33 cat>>first.txt
+ 1979  26/05/19 03:06:33 cat first.txt
+ 1980  26/05/19 03:06:33 git add first.txt
+ 1981  26/05/19 03:06:33 cat first.txt
+ 1982  26/05/19 03:06:33 git commit -m {"a
+ 1983  26/05/19 03:06:33 git commit -m "added to the first sight"
+ 1984  26/05/19 03:06:33 git log
+ 1985  26/05/19 03:06:33 ls
+ 1986  26/05/19 03:06:33 cat first.txt
+ 1987  26/05/19 03:06:33 git remote
+ 1988  26/05/19 03:06:33 git push -u mio master
+ 1989  26/05/19 03:06:33 git pull
+ 1990  26/05/19 03:06:33 cat ferv.txt
+ 1991  26/05/19 03:06:33 git branch
+ 1992  26/05/19 03:06:33 git checkout ghj
+ 1993  26/05/19 03:06:33 ls
+ 1994  26/05/19 03:06:33 cat>>tumnus.txt
+ 1995  26/05/19 03:06:33 git add tumnus.txt
+ 1996  26/05/19 03:06:33 git commit -m "added to tumnus"
+ 1997  26/05/19 03:06:33 git push fluxee ghj 
+ 1998  26/05/19 03:06:33 cat term.txt
+ 1999  26/05/19 03:06:33 ps
+ 2000  26/05/19 03:06:36 ls -lrt
+ 2001  26/05/19 03:10:23 nano makefile
+ 2002  26/05/19 03:10:55 make draft_to.txt
+ 2003  26/05/19 03:11:03 cat draft_to.txt
+ 2004  26/05/19 03:11:51 rm draft_to.txt
+ 2005  26/05/19 03:11:52 ls
+ 2006  26/05/19 03:11:56 nano makefile
+ 2007  26/05/19 03:14:52 echo " temper the data ">>toc.txt
+ 2008  26/05/19 03:15:32 nano makefile
+ 2009  26/05/19 03:16:14 make readme.txt
+ 2010  26/05/19 03:16:20 nano makefile
+ 2011  26/05/19 03:16:46 make readme.txt
+ 2012  26/05/19 03:16:55 cat readme.txt
+ 2013  26/05/19 03:17:04 nano makefile
+ 2014  26/05/19 03:17:27 make readme.txt
+ 2015  26/05/19 03:17:34 rm readme.txt
+ 2016  26/05/19 03:17:35 make readme.txt
+ 2017  26/05/19 03:17:39 cat readme.txt
+ 2018  26/05/19 03:17:45 cat toc.txt
+ 2019  26/05/19 03:17:50 cat temper.txt
+ 2020  26/05/19 03:17:57 cat toc.txt
+ 2021  26/05/19 03:18:04 cat readme.txt
+ 2022  26/05/19 03:19:26 nano makefile
+ 2023  26/05/19 03:19:48 rm readme.txt
+ 2024  26/05/19 03:19:53 make readme.txt
+ 2025  26/05/19 03:19:56 nano makefile
+ 2026  26/05/19 03:31:56 ls
+ 2027  26/05/19 03:31:58 ps
+ 2028  26/05/19 03:31:59 ps -l
+ 2029  26/05/19 03:32:03 ls -lrt
+ 2030  26/05/19 03:32:11 ps
+ 2031  26/05/19 03:32:14 o
+ 2032  26/05/19 03:32:15 w
+ 2033  26/05/19 03:34:51 cd ..
+ 2034  26/05/19 03:35:06 git clone https://github.com/cyberwolf199807/cyberwolf199807.github.io
+ 2035  26/05/19 03:35:15 cd cyber*
+ 2036  26/05/19 03:35:16 ls
+ 2037  26/05/19 03:35:25 make makefile
+ 2038  26/05/19 03:35:31 make README.md
+ 2039  26/05/19 03:35:43 nano makefile
+ 2040  26/05/19 03:36:28 make droter.txt
+ 2041  26/05/19 03:36:33 make README.md
+ 2042  26/05/19 03:36:36 ls
+ 2043  26/05/19 03:36:41 cat README.md
+ 2044  26/05/19 03:36:48 nano makefile
+ 2045  26/05/19 03:37:01 cat makefile
+ 2046  26/05/19 03:37:11 rm README.md
+ 2047  26/05/19 03:37:12 ls
+ 2048  26/05/19 03:37:16 make README.md
+ 2049  26/05/19 03:37:17 ls
+ 2050  26/05/19 03:37:21 cat README.md
+ 2051  26/05/19 03:37:26 nano makefile
+ 2052  26/05/19 03:40:50 rm *
+ 2053  26/05/19 03:40:52 cd ..
+ 2054  26/05/19 03:40:56 rm cyber*
+ 2055  26/05/19 03:41:02 rm -r cyber*
+ 2056  26/05/19 03:41:06 sudo rm -r cyber*
+ 2057  26/05/19 03:41:19 git clone https://github.com/cyberwolf199807/cyberwolf199807.github.io
+ 2058  26/05/19 03:41:24 cd cyber*
+ 2059  26/05/19 03:41:27 ls
+ 2060  26/05/19 03:41:34 make README.md
+ 2061  26/05/19 03:41:45 nano makefile
+ 2062  26/05/19 03:41:58 cat makefile
+ 2063  26/05/19 03:42:05 make README.md
+ 2064  26/05/19 03:42:29 cat README.md
+ 2065  26/05/19 03:42:32 ls
+ 2066  26/05/19 03:42:40 bash guessinggame.sh
+ 2067  26/05/19 03:44:10 cat makefile
+ 2068  26/05/19 03:46:20 history
+ 2069  26/05/19 03:47:46 HISTIMEFORMAT="%d/%m/%y %T"
+ 2070  26/05/19 03:48:41 cat history | HISTIMEFORMAT
+ 2071  26/05/19 03:49:02 HISTIMEFORMAT=$(history)
+ 2072  26/05/19 03:49:10 echo $HISTIMEFORMAT
+ 2073  26/05/19 03:49:52 history -lrt
+ 2074  26/05/19 03:49:59 man history
+ 2075  26/05/19 03:50:57 echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
+ 2076  26/05/19 03:51:02 history
+ 2077  26/05/19 03:51:16 source ~/.bash_profile
+ 2078  26/05/19 03:51:20 history
+ 2079  26/05/19 03:51:41 clear
+ 2080  26/05/19 03:52:01 history | make
+ 2081  26/05/19 03:52:09 history
+ 2082  26/05/19 03:52:25 grep "make" history
+ 2083  26/05/19 03:52:38 history >> trover
+ 2084  26/05/19 03:52:42 grep "make" trover
+ 2085  26/05/19 03:53:36 grep "make*history" trover 
+ 2086  26/05/19 03:53:48 grep "*make*history*" trover 
+ 2087  26/05/19 03:54:02 grep "*make history*" trover 
+ 2088  26/05/19 03:54:08 grep *make history* trover 
+ 2089  26/05/19 03:55:30 grep *make history^* trover 
+ 2090  26/05/19 03:55:36 grep *history* trover 
+ 2091  26/05/19 03:55:46 grep *history trover 
+ 2092  26/05/19 03:55:51 grep make trover
+ 2093  26/05/19 03:55:59 grep make history trover
+ 2094  26/05/19 03:56:06 grep 'make history' trover
+ 2095  26/05/19 03:57:25 ld
+ 2096  26/05/19 03:57:28 ls
+ 2097  26/05/19 03:57:33 nano makefile
+ 2098  26/05/19 03:58:12 history
+ 2099  26/05/19 03:58:18 history | tail 1
+ 2100  26/05/19 03:58:20 history | tail -1
+ 2101  26/05/19 03:58:31 grep 'make' history | tail -1
+ 2102  26/05/19 03:58:37 grep 'make' trover | tail -1
+ 2103  26/05/19 04:00:10 egrep [1-9] trover | tail -1
+ 2104  26/05/19 04:01:33 history
+ 2105  26/05/19 04:05:21 mkdir ty
+ 2106  26/05/19 04:05:23 cd ty
+ 2107  26/05/19 04:05:28 git clone https://github.com/cyberwolf199807/cyberwolf199807.github.io
+ 2108  26/05/19 04:05:32 ls
+ 2109  26/05/19 04:05:36 cd cyber*
+ 2110  26/05/19 04:05:37 ls
+ 2111  26/05/19 04:05:42 cat makefile
+ 2112  26/05/19 04:06:02 nano roughcanvas.md
+ 2113  26/05/19 04:06:09 nano makefile
+ 2114  26/05/19 04:06:36 make README.md
+ 2115  26/05/19 04:06:42 nano README.md
+ 2116  26/05/19 04:06:52 ls
+ 2117  26/05/19 04:06:59 rm README.md
+ 2118  26/05/19 04:07:03 ls
+ 2119  26/05/19 04:07:06 make README.md
+ 2120  26/05/19 04:07:07 ls
+ 2121  26/05/19 04:07:13 make README.md
+ 2122  26/05/19 04:07:19 nano makefile
+ 2123  26/05/19 04:07:40 cat makefile
+ 2124  26/05/19 04:07:46 make README.md
+ 2125  26/05/19 04:07:48 ls
+ 2126  26/05/19 04:07:55 rm README.md
+ 2127  26/05/19 04:08:02 cat README.md
+ 2128  26/05/19 04:08:08 ls
+ 2129  26/05/19 04:08:13 nano makefile
+ 2130  26/05/19 04:09:08 ls
+ 2131  26/05/19 04:09:14 make README.md
+ 2132  26/05/19 04:09:28 nano makefile
+ 2133  26/05/19 04:09:34 ls
+ 2134  26/05/19 04:09:38 rm README.md
+ 2135  26/05/19 04:09:42 make README.md
+ 2136  26/05/19 04:10:03 nano makefile
+ 2137  26/05/19 04:10:24 rm README.md
+ 2138  26/05/19 04:10:26 ls
+ 2139  26/05/19 04:10:30 rm unix.txt
+ 2140  26/05/19 04:10:35 make README.md
+ 2141  26/05/19 04:10:50 cat history >> unix.txt
+ 2142  26/05/19 04:11:00 history >> unx.txt
